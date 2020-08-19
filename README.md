@@ -1,2 +1,2 @@
 # Yui
-CQ robot
+QQ robot
